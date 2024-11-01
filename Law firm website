@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Law Firm</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>Your Law Firm</h1>
+        <nav>
+            <a href="#cases">Cases</a>
+            <a href="#contact">Contact</a>
+            <a href="#location">Location</a>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h2>Welcome to Your Law Firm</h2>
+        <p>At [Your Law Firm Name], we are dedicated to providing top-notch legal services to our clients. We specialize in various areas of law and have a proven track record of success.</p>
+    </section>
+
+    <!-- Cases Section -->
+    <section id="cases">
+        <h2>Notable Cases</h2>
+        <ul>
+            <li>Case 1: [Brief Description]</li>
+            <li>Case 2: [Brief Description]</li>
+            <li>Case 3: [Brief Description]</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: <a href="tel:your-number">[Your Phone Number]</a></p>
+        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    </section>
+
+    <!-- Location Section -->
+    <section id="location">
+        <h2>Office Location</h2>
+        <p>Find us at:</p>
+        <p>[Your Office Address]</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18...Your_Map_Link..." width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Your Law Firm</p>
+    </footer>
+</body>
+</html>
